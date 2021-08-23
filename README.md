@@ -1,7 +1,7 @@
 # DeathPenaltyPluigin
 Just for Check version
 <br>
-<a href="https://github.com/DeathPenaltyPluigin">
+<a href="https://github.com/DeathPenaltyPluigin" align="center">
   <img align="center" src="https://img.shields.io/bstats/players/12267?color=red&style=for-the-badge">
     <img align="center" src="https://img.shields.io/bstats/servers/12267?color=red&style=for-the-badge">
   </a>
