@@ -1,4 +1,6 @@
 # DeathPenaltyPluigin
 Just for Check version
 
-https://bstats.org/signatures/bukkit/DeathPenaltyID.svg
+
+  <img align="center" src="https://bstats.org/signatures/bukkit/DeathPenaltyID.svg">
+
