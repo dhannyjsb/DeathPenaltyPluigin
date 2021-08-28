@@ -13,6 +13,8 @@ Just for Check version
 
 # DeathPenalty
 
+# DeathPenalty
+
 TODO List:
 - [X] Get region name di debug saat mati
 - [X] Support java 11
@@ -29,18 +31,24 @@ TODO List:
 - [X] ActionBar, BossBarr di pesan death.
 - [X] Drop money saat player mati
 - [X] Tambahankan GUI untuk config
-- [X] Bikin GUI tersendiri untuk type Monster 
+- [X] Bikin GUI tersendiri untuk type Monster
 - [X] Bikin GUI tersendiri untuk type Item 
+- [X] Jalankan command saat player mati
 - [ ] Tambahankan sign board
-- [ ] Jalankan command saat player mati
 - [ ] Set armor monster untuk zombie, skeleton, husk dll
 
 
+Change log : v1.5.9 
+- Ubah cara pewarna untuk Hex #abcdef#
+- Fix ilegall blablablablaba wkwk
+- FTambah InfoGUI
 
-Change log : v1.5.8 (masih belum di ubah di POM)
-- Add server command ( masih belum selesai)
+Change log : v1.5.8
+- Add server command
 - Fix health and food tidak berfungsi saat uang player di bawah minimal
 - Ubah metode drop item saat keepinventory on dan beberapa perbaikan metodenya.
+- Ubah layout item config
+- perbaikan beberapa coding yang lumayan tidak dibutuhkan
 
 Change log : v1.5.7
 - Memperbaiki cek versi, operatornya kurang, maklum, gak pinter math wkwkw
