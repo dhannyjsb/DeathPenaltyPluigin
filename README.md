@@ -13,8 +13,6 @@ Just for Check version
 
 # DeathPenalty
 
-# DeathPenalty
-
 TODO List:
 - [X] Get region name di debug saat mati
 - [X] Support java 11
@@ -39,9 +37,9 @@ TODO List:
 
 
 Change log : v1.5.9 
-- Ubah cara pewarna untuk Hex #abcdef#
+- Ubah cara pewarna untuk Hex <#abcdef>
 - Fix ilegall blablablablaba wkwk
-- FTambah InfoGUI
+- Tambah InfoGUI
 
 Change log : v1.5.8
 - Add server command
