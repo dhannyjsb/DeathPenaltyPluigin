@@ -32,14 +32,19 @@ TODO List:
 - [X] Bikin GUI tersendiri untuk type Monster
 - [X] Bikin GUI tersendiri untuk type Item 
 - [X] Jalankan command saat player mati
+- [X] Tambah Potion Effect saat player respawn + GUI nya
 - [ ] Tambahankan sign board
 - [ ] Set armor monster untuk zombie, skeleton, husk dll
 
 
+Change log : v1.6.0
+- Tambah Potion Effect saat player respawn + GUI nya
+
 Change log : v1.5.9 
-- Ubah cara pewarna untuk Hex <#abcdef>
+- Ubah cara pewarna untuk Hex #abcdef#
 - Fix ilegall blablablablaba wkwk
 - Tambah InfoGUI
+- 
 
 Change log : v1.5.8
 - Add server command
